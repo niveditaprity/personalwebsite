@@ -1,0 +1,21 @@
+body{
+    background:#CCC ;
+}
+#Header.a:hover{
+    color:#FFF
+}
+#bg-img
+{
+    background:url('../img/resnivi.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height:500px;
+}
+#About
+{
+    margin-top:-220px;
+}
+#About .fa
+{
+color:#FFF;
+}
